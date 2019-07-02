@@ -1,0 +1,4 @@
+venv/
+.idea/
+Cinema/__init__.py
+Cinema/Multiplex_stuff/__init__.py
